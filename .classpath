@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/ivanzkchou/eclipse-workspace/Crawler/selenium-server-standalone-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanzkchou/eclipse-workspace/Crawler/phantomjsdriver-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanzkchou/eclipse-workspace/Crawler/mysql-connector-java-5.1.43-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanzkchou/eclipse-workspace/Crawler/jackson-databind-2.9.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanzkchou/eclipse-workspace/Crawler/jackson-core-2.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanzkchou/eclipse-workspace/Crawler/jackson-annotations-2.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanzkchou/eclipse-workspace/Crawler/jsoup-1.11.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
